@@ -2,7 +2,7 @@
 
 This is a true-diversity 5.GHz video receiver for FPV.
 The goal of the project is creating a diversity receiver module which is easy to mount on a non "fatshark socket" ("box" fpv goggles for example).
-The module uses 2X BOSCAM 5808 modules which are widly available and widly used for FPV application.
+The module uses 2X BOSCAM RX5808 modules which are widly available and widly used for FPV application.
 
 Module requirements:
 * one flat pcb
