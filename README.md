@@ -15,3 +15,4 @@ Module requirements:
 * componets are large enough to solder by hand (typically not smaller than 0603)
 
 For now the focus is on the hardware development and once it is finished a firmware will be written.
+<img src="first_layout.jpg" />
