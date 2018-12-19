@@ -18,6 +18,6 @@ For now the focus is on the hardware development and once it is finished a firmw
 <img src="first_layout.jpg" />
 
 
-##RX5808 SPI control interface
+## RX5808 SPI control interface
 The recievers modules have to be moded in order to enable SPI controll via the CH1, CH2, CH3 pins.
 For furhter explanation check https://github.com/markohoepken/rx5808_pro_osd/wiki/rs5808-spi-patch
