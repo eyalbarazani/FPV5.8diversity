@@ -14,7 +14,7 @@ The module uses 2X BOSCAM RX5808 modules which are widely available and widely u
 * Discrete led frequency indication
 * componets are large enough to solder by hand (typically not smaller than 0603)
 
-<img src="first_layout.jpg" />
+<img src="diversity_receiver.jpg" />
 
 ## A prototype
 A first version of the board has been (home) made and a basic firmaware is to be written.
