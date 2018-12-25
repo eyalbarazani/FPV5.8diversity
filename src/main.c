@@ -3,23 +3,24 @@
 #include <util/delay.h>
 
 #include "interface/LED.h"
+#include "interface/buttons.h"
 
 
 int main(void)
 {
 	init_led_indication();
+	init_buttons();
 
-
-
-	int i = 1;
 	while (1)
 	{
-		set_ch_led(i);
-		set_rx_module_led(i % 2);
-		set_band_led('A');
-		_delay_ms(100);
-		i++;
-		if (i > 8) i = 1;
+		if (button1_press())
+		{
+			// change band
+		}
+		if (button2_press())
+		{
+			// changec channel or auto scan
+		}
 	}
 }
 
